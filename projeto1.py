@@ -1,10 +1,10 @@
 
-def soma(a, b):
-    s = a + b
-    print(f'A soma entre {a} + {b} = {s}')
+def mult(a, b):
+    s = a * b
+    print(f'A multiplicação entre {a} + {b} = {s}')
 
 
 a = int(input('Primeiro valor: '))
 b = int(input('Segundo valor: '))
-soma(a, b)
+mult(a, b)
 
