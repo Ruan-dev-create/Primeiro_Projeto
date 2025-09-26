@@ -4,7 +4,7 @@ def mult(a, b):
     print(f'A multiplicação entre {a} + {b} = {s}')
 
 
-a = int(input('Primeiro valor: '))
-b = int(input('Segundo valor: '))
+a = int(input('Digite o Primeiro valor: '))
+b = int(input('Digite o Segundo valor: '))
 mult(a, b)
 
