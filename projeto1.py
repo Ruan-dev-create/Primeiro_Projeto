@@ -2,7 +2,7 @@ from random import randint
 
 computador = randint(0, 50)
 
-chance = int(input('Quantas tentativas?'))
+chance = int(input('São quantas tentativas?'))
 tentativas = 0
 
 while chance != tentativas:
